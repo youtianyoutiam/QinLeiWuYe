@@ -1,0 +1,634 @@
+{
+  "register": [
+    {
+      "name": "123@qq.com",
+      "pwd": "d98fc028f2f0d406ed68cc75d46c2252",
+      "id": 1
+    },
+    {
+      "name": "1211113@qq.com",
+      "pwd": "d98fc028f2f0d406ed68cc75d46c2252",
+      "id": 2
+    },
+    {
+      "name": "1234@qq.com",
+      "pwd": "d98fc028f2f0d406ed68cc75d46c2252",
+      "id": 3
+    }
+  ],
+  "HouseholdInformation": [
+    {
+      "id": 234,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-6-2",
+      "hometype": "两室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": 317,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-2",
+      "hometype": "三室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": 327,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-3",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3837,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-3-5",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3847,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "2-1-2",
+      "hometype": "两室两厅",
+      "name": "张和平"
+    },
+    {
+      "id": 3857,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "4-3-2",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3867,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-2",
+      "hometype": "三室两厅",
+      "name": "张和平"
+    },
+    {
+      "id": 3877,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "4-1-2",
+      "hometype": "两室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3887,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-1-2",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3897,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-2",
+      "hometype": "三室两厅",
+      "name": "陈浩"
+    },
+    {
+      "id": 3807,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "2-1-2",
+      "hometype": "三室两厅",
+      "name": "李二牛"
+    },
+    {
+      "id": 3871,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-4-2",
+      "hometype": "一室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": 3872,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-2",
+      "hometype": "三室两厅",
+      "name": "陈浩"
+    },
+    {
+      "id": 3873,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-5-2",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3874,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-2",
+      "hometype": "一室两厅",
+      "name": "陈浩"
+    },
+    {
+      "id": 3875,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "3-2-5",
+      "hometype": "三室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": 3876,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-2-2",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 3877,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "2-1-2",
+      "hometype": "一室两厅",
+      "name": "张和平"
+    },
+    {
+      "id": 3878,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-3-4",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 381179,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-2-2",
+      "hometype": "三室一厅",
+      "name": "李二牛"
+    },
+    {
+      "id": 38227,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "6-1-2",
+      "hometype": "两室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 38337,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-3",
+      "hometype": "三室两厅",
+      "name": "李二牛"
+    },
+    {
+      "id": 38744,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "5-1-2",
+      "hometype": "三室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": 38755,
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-1-2",
+      "hometype": "两室两厅",
+      "name": "李二牛"
+    },
+    {
+      "id": 38766,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-3-2",
+      "hometype": "三室两厅",
+      "name": "张和平"
+    },
+    {
+      "id": 38777,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "2-1-1",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 38788,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-4-2",
+      "hometype": "一室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": 38799,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-1-2",
+      "hometype": "三室两厅",
+      "name": "马超"
+    },
+    {
+      "id": 38007,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "1-5-3",
+      "hometype": "三室两厅",
+      "name": "李二牛"
+    },
+    {
+      "id": 381237,
+      "title": "海天家园",
+      "type": "住宅",
+      "num": "3-1-2",
+      "hometype": "两室两厅",
+      "name": "张和平"
+    },
+    {
+      "id": "234231123",
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-6-2",
+      "hometype": "两室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": "2342313",
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-6-2",
+      "hometype": "两室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": "2341231",
+      "title": "海天家园",
+      "type": "商铺",
+      "num": "1-6-2",
+      "hometype": "两室两厅",
+      "name": "孙慧华"
+    },
+    {
+      "id": "2424",
+      "title": "2",
+      "type": "住户",
+      "num": "12312",
+      "name": "13"
+    }
+  ],
+  "chartDataOne": [
+    {
+      "title": "四号楼",
+      "num": 1347
+    },
+    {
+      "title": "四号楼",
+      "num": 1347
+    },
+    {
+      "title": "五号楼",
+      "num": 2431
+    },
+    {
+      "title": "一号楼",
+      "num": 1827
+    },
+    {
+      "title": "二号楼",
+      "num": 342
+    },
+    {
+      "title": "三号楼",
+      "num": 342
+    },
+    {
+      "title": "四号楼",
+      "num": 1347
+    },
+    {
+      "title": "四号楼",
+      "num": 1347
+    },
+    {
+      "title": "五号楼",
+      "num": 2431
+    },
+    {
+      "title": "六号楼",
+      "num": 876
+    },
+    {
+      "title": "七号楼",
+      "num": 1578
+    },
+    {
+      "title": "二号楼",
+      "num": 5555
+    },
+    {
+      "title": "六号楼",
+      "num": 876
+    }
+  ],
+  "chartDataTwo": [
+    {
+      "day": [
+        "星期1",
+        "星期2",
+        "星期3",
+        "星期4",
+        "星期5",
+        "星期6",
+        "星期7"
+      ],
+      "num": {
+        "住户": [
+          1320,
+          1520,
+          1210,
+          1460,
+          1490,
+          830,
+          920
+        ],
+        "外卖": [
+          140,
+          232,
+          101,
+          264,
+          90,
+          340,
+          250
+        ],
+        "快递": [
+          120,
+          282,
+          111,
+          234,
+          220,
+          340,
+          310
+        ],
+        "一般访客": [
+          320,
+          132,
+          201,
+          334,
+          190,
+          130,
+          220
+        ],
+        "授权访客": [
+          220,
+          402,
+          231,
+          134,
+          190,
+          230,
+          120
+        ]
+      }
+    }
+  ],
+  "chartDataThree": [
+    {
+      "value": 567,
+      "name": "卫生"
+    },
+    {
+      "value": 123,
+      "name": "电梯"
+    },
+    {
+      "value": 324,
+      "name": "停车引导"
+    },
+    {
+      "value": 89,
+      "name": "水电"
+    },
+    {
+      "value": 453,
+      "name": "一般报修"
+    },
+    {
+      "value": 767,
+      "name": "门禁"
+    }
+  ],
+  "chartDataFour": {
+    "day": [
+      "星期1",
+      "星期2",
+      "星期3",
+      "星期4",
+      "星期5",
+      "星期6",
+      "星期7"
+    ],
+    "num": {
+      "一般用户": [
+        320,
+        502,
+        401,
+        334,
+        390,
+        430,
+        720
+      ],
+      "月租用户": [
+        234,
+        564,
+        443,
+        234,
+        754,
+        430,
+        321
+      ],
+      "特殊车辆": [
+        220,
+        321,
+        335,
+        534,
+        390,
+        330,
+        310
+      ]
+    }
+  },
+  "PaymentRecord": [
+    {
+      "id": 23464,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 27,
+      "WaterRate": 57,
+      "SanitaryFee": 620
+    },
+    {
+      "id": 258574,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 24,
+      "WaterRate": 75,
+      "SanitaryFee": 54
+    },
+    {
+      "id": 2786754,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 24,
+      "WaterRate": 55,
+      "SanitaryFee": 70
+    },
+    {
+      "id": 2786334,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 52,
+      "WaterRate": 74,
+      "SanitaryFee": 57
+    },
+    {
+      "id": 278634,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 27,
+      "WaterRate": 37,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 2375274,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 57,
+      "WaterRate": 57,
+      "SanitaryFee": 77
+    },
+    {
+      "id": 257234,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 54,
+      "WaterRate": 45,
+      "SanitaryFee": 45
+    },
+    {
+      "id": 2372554,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 77,
+      "WaterRate": 307,
+      "SanitaryFee": 650
+    },
+    {
+      "id": 2357574,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 545,
+      "WaterRate": 350,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 257534,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 4750,
+      "WaterRate": 307,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 257534,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 520,
+      "WaterRate": 3028,
+      "SanitaryFee": 620
+    },
+    {
+      "id": 2375754,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 24234,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 2755734,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 234244,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 2347674,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 235754,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 237674,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 237674,
+      "num": "1-6-2",
+      "name": "张和平",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    },
+    {
+      "id": 275234,
+      "num": "1-6-2",
+      "name": "孙慧华",
+      "ElectricChargee": 50,
+      "WaterRate": 30,
+      "SanitaryFee": 60
+    }
+  ]
+}
